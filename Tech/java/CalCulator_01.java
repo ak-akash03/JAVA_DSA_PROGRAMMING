@@ -11,7 +11,6 @@
             3 ==> max input exception if any of the inputs is greater than 100000
             4 ==> max Multiplier reached exception - dont allown any multiplication input to be greater than 700 :
  */
-
 package com.Tech.java;
 
 import javax.management.MalformedObjectNameException;
