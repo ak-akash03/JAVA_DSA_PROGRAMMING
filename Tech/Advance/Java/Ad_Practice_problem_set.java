@@ -9,8 +9,6 @@
         Assume that all the users are registered with their names in the central database
 
  */
-
-
 package com.Tech.Advance.Java;
 
 import java.util.ArrayList;
