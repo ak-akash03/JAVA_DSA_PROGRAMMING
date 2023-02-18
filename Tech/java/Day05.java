@@ -7,5 +7,6 @@ public class Day05 {
         int d = a - b ;
         System.out.println("Addition of a + b : " + c );
         System.out.println(d);
+
     }
 }
