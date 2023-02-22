@@ -5,5 +5,8 @@ public class Day01 {                                   // Class
         System.out.println("hello world");            // Simple code :
         System.out.println("hello class");
         System.out.println("hello class"); 
+        
+        
+        
     }
 }
