@@ -6,6 +6,5 @@ public class Day02 {
         System.out.println(a);
 
 
-
     }
 }
